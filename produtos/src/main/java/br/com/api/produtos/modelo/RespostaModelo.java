@@ -8,7 +8,7 @@ import lombok.Setter;
 @Component
 @Getter
 @Setter
-public class RespostaModelo {
+    public class RespostaModelo {
 
     private String mensagem;
     
